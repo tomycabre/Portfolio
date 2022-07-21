@@ -15,12 +15,12 @@ a {
 /**   HEADER   */
 
 #main-header {
-  height: 80px;
+  height: 5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: rgb(29, 26, 24);
-  padding: 0 20px;
+  padding: 0 2rem;
 }
 
 #logo {
