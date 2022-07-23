@@ -164,6 +164,22 @@ main h1 {
   background-color: rgb(221, 134, 34);
 }
 
+/*!   FORMS   */
+
+.form {
+  margin: 10rem;
+}
+
+input {
+  width: 20rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.form-btn {
+  display: block;
+}
+
 /*!   MEDIA QUERIES   */
 
 /**   MOBILE STYLES   */
